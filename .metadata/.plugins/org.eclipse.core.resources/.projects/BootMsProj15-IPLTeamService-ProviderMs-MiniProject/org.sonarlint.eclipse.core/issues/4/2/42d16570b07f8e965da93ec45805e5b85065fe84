@@ -1,0 +1,6 @@
+
+€	java:S112-"FDefine and throw a dedicated exception instead of using a generic one.8¿²ªÚº2b 15452a9b0f2356c3dabe720a67728b3dh
+{
+java:S6830"GRename this bean to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 6884c2ad84e9b780491e92c2413f77bbh
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h

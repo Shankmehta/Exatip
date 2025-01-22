@@ -1,0 +1,16 @@
+INDEX VERSION 1.4+F:\ExaTip\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+313552287.index
+2173791207.index
+2954276756.index
+3348685342.index
+1519416054.index
+1364178391.index
+1032912505.index
+295809904.index
+3435648363.index
+1063936447.index
+3359014646.index
+2669984125.index
+1406590738.index
+1981149704.index
+2840248801.index

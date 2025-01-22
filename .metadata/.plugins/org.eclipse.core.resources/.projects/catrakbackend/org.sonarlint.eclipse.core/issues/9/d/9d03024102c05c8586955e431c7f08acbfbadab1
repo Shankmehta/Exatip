@@ -1,0 +1,136 @@
+
+ƒ
+java:S1192›"NDefine a constant instead of duplicating this literal "countryAbbrev" 4 times.b 58d413c71f94350c5e05f5b89671b34ah
+‡
+java:S3776Š
+"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.b b5548e2c9ef087c55aafd44696f8fdbah
+[
+java:S1452ü"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+p	java:S125’"<This block of commented-out lines of code should be removed.b b934995ccb47c30dc2b4d9d89cccc562h
+[
+java:S1452Ö"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+Ÿ
+java:S1192é"jDefine a constant instead of duplicating this literal "Vin must not more than 25 characters long" 5 times.b 6a1cf66791fe06fdc70ffd97915181afh
+[
+java:S1452"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+g
+java:S1874="3Remove this use of "description"; it is deprecated.b 67daf92c833c41c95db874e18fcb2786h
+}
+java:S6813J"BRemove this field injection and use constructor injection instead.8¦Ø‹¶¹2b 0132ec8cee01c5dd244e1a60fe6448a1h
+~
+java:S1192—"IDefine a constant instead of duplicating this literal "nickName" 4 times.b eaa70353d2cb11072d6c42f28f5899d6h
+v
+java:S6813M"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+]
+java:S5411ú"(Use a primitive boolean expression here.b 76bad3104b1623ecf41dd2855653a2f3h
+q
+java:S4973È"<Strings and Boxed types should be compared using "equals()".b de0219f9333d57ea89a9ba235df098bah
+¦
+java:S1192î"qDefine a constant instead of duplicating this literal "Licence no must not more than 25 characters long" 5 times.b f70c845e5a30bfa2c22c606a7d520f81h
+[
+java:S1452õ"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+ü
+java:S6541Š
+"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 138 to 64, Complexity from 27 to 14, Nesting Level from 3 to 2, Number of Variables from 24 to 6.b b5548e2c9ef087c55aafd44696f8fdbah
+]
+java:S5411¸"(Use a primitive boolean expression here.b 77ca55abba813b353ca7cd7cbd5de2a3h
+o	java:S125`"<This block of commented-out lines of code should be removed.b 6e7a63a27101b18af9ea571fedbe4351h
+{
+java:S1192°"FDefine a constant instead of duplicating this literal "kitId" 3 times.b 92db573f3cb75306576d74fc20bb525ch
+£
+java:S1192ó"nDefine a constant instead of duplicating this literal "Vin must contain alphanumeric characters only" 5 times.b e12b7794d52378f02c5e05bfd5fd25f1h
+š
+java:S1192Þ"eDefine a constant instead of duplicating this literal "Access denied! Customer is inactive." 3 times.b 5c89f206ee2274f5aa07fdd40227f365h
+o
+java:S1854®":Remove this useless assignment to local variable "status".b 70db76ed23880ff5e45a8e3987f491bdh
+Ž
+java:S1192Á"YDefine a constant instead of duplicating this literal "Nickname must be unique!" 3 times.b 11b29bd97d95cf327a084723416ce89ch
+d
+java:S1066Ô	"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+
+java:S1192–"JDefine a constant instead of duplicating this literal "vehicleId" 8 times.b bf829aaf6f2dfbc874c4177bcd278182h
+ž
+java:S1192‹"iDefine a constant instead of duplicating this literal "Access denied for vehicle group creation" 4 times.b 9aa49eb8732c1aaf0a09308d197c775dh
+¥
+java:S1192ÿ"pDefine a constant instead of duplicating this literal "Nick name must not more than 50 characters long" 4 times.b d529c9faed34f1fca3dc19c45ff1c488h
+d
+java:S1066‡"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+v
+java:S6813S"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+ƒ
+java:S1192Á"NDefine a constant instead of duplicating this literal "Invalid orgId" 7 times.b 94cb7c4cf5d50b238b0cccf06a5c4effh
+d
+java:S1066œ"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+‡
+java:S3776Æ"RRefactor this method to reduce its Cognitive Complexity from 37 to the 15 allowed.b a2bffa1fc8160836998f4c0cab36f407h
+ü
+java:S6541‡"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 173 to 64, Complexity from 40 to 14, Nesting Level from 3 to 2, Number of Variables from 30 to 6.b 93900a1bc9db53a886b25cef2ffae41fh
+„
+java:S1192š"ODefine a constant instead of duplicating this literal "stateShortName" 4 times.b 7b18d2daad6008a61ee48acac7372d45h
+d
+java:S1066µ
+"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+‡
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 46 to the 15 allowed.b 93900a1bc9db53a886b25cef2ffae41fh
+ƒ
+java:S1192§"NDefine a constant instead of duplicating this literal "Invalid state" 5 times.b 690fc45f3de1d80892d1934dc6b7a407h
+ª
+java:S1192ù"uDefine a constant instead of duplicating this literal "License no must contain alphanumeric characters only" 5 times.b 76bc3b53c94b4e92277e80c96bd540e0h
+‡
+java:S1192‹"RDefine a constant instead of duplicating this literal "Vin already exist" 5 times.b a3948e8a0dd4e686b10100be8a6474bdh
+p	java:S125Ž"<This block of commented-out lines of code should be removed.b 901aadf9e152bcf10f76c486bfad0707h
+
+java:S1192™"JDefine a constant instead of duplicating this literal "licenceNo" 5 times.b 7a09ddb76600b3adfda39ffeb0678e7ch
+v
+java:S6813A"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+[
+java:S1452«"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+p	java:S125Œ"<This block of commented-out lines of code should be removed.b ec21d2f34bdeab13b107b292133c6d11h
+`
+java:S1481®"+Remove this unused "status" local variable.b 9acb44549b41563697bb490144ec6258h
+v
+java:S6813D"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813V"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+p	java:S125€"<This block of commented-out lines of code should be removed.b 7431d7808635f4adc66c240ca7e20a60h
+v
+java:S6813P"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+[
+java:S1452­"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+J
+java:S3457¼"Not enough arguments.b a046cae38aa3e86f518de59fb440a6c8h
+‡
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 29 to the 15 allowed.b 621694ab9cc2725e0c937a52f19fc9d6h
+ü
+java:S6541Æ"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 157 to 64, Complexity from 33 to 14, Nesting Level from 3 to 2, Number of Variables from 28 to 6.b a2bffa1fc8160836998f4c0cab36f407h
+™
+java:S1192Å"dDefine a constant instead of duplicating this literal "RequestUUID: {} exception due to {}" 4 times.b b5be96534d6df6f2d1c9e62aa1669a41h
+{
+java:S1192þ"FDefine a constant instead of duplicating this literal "orgId" 6 times.b 5b08d49c6491bfa7a90ee438d376da0ch
+]
+java:S5411È"(Use a primitive boolean expression here.b eb2f530bc9743cc8b29543df1c993d86h
+q
+java:S4973å"<Strings and Boxed types should be compared using "equals()".b de0219f9333d57ea89a9ba235df098bah
+v
+java:S6813G"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+[
+java:S1452ê"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+
+java:S1192È"XDefine a constant instead of duplicating this literal "Data saved successfully" 6 times.b ea4571bf5f6302cfd919831d12757e2ch
+d
+java:S1066þ"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+[
+java:S1452È"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+‡
+java:S1192­"RDefine a constant instead of duplicating this literal "Invalid vehicleId" 8 times.b 385a90b97e3d996c05d00ad1bf3ebba5h
+[
+java:S1452ß"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+p	java:S125¿"<This block of commented-out lines of code should be removed.b d93924e1bda54e7480bfc7c20c7bf137h
+~
+java:S1192ü"IDefine a constant instead of duplicating this literal "deviceId" 3 times.b c732f28b320315f37decb18bd65baaa7h
+†
+java:S1192£"QDefine a constant instead of duplicating this literal "Invalid deviceId" 3 times.b 1a720d6440a6813de03e3114da54b143h
+ü
+java:S6541Õ"ÆA "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 128 to 64, Complexity from 24 to 14, Nesting Level from 3 to 2, Number of Variables from 21 to 6.b 621694ab9cc2725e0c937a52f19fc9d6h
+’
+java:S1192…"]Define a constant instead of duplicating this literal "Licence number already exist" 5 times.b 1b6aa2d0647a067e4edb19526e6a7064h

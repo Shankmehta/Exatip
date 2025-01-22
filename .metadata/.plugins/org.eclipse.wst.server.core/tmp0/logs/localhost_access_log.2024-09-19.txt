@@ -1,0 +1,11 @@
+127.0.0.1 - - [19/Sep/2024:13:20:04 +0530] "GET / HTTP/1.1" 404 752
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:13:20:05 +0530] "GET /Project1-CURD-using-redis/ HTTP/1.1" 404 275
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:13:20:06 +0530] "GET /favicon.ico HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:13:23:02 +0530] "POST /Project1-CURD-using-redis/api/users HTTP/1.1" 200 101
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:13:28:31 +0530] "POST /Project1-CURD-using-redis/api/users HTTP/1.1" 200 99
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:13:28:39 +0530] "GET /Project1-CURD-using-redis/api/users HTTP/1.1" 200 538
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:13:35:07 +0530] "DELETE /Project1-CURD-using-redis/api/users/4 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:13:35:12 +0530] "DELETE /Project1-CURD-using-redis/api/users/3 HTTP/1.1" 204 -
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:13:35:37 +0530] "GET /Project1-CURD-using-redis/api/users/ HTTP/1.1" 404 136
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:13:35:42 +0530] "GET /Project1-CURD-using-redis/api/users HTTP/1.1" 200 436
+0:0:0:0:0:0:0:1 - - [19/Sep/2024:16:36:26 +0530] "GET /Project1-CURD-using-redis/api/users HTTP/1.1" 200 436

@@ -1,0 +1,13 @@
+
+
+java:S3457˜"Q%n should be used in place of \n to produce the platform-specific line separator.8Í±÷Ä2b 5e614f03e71965021a02e9beb5841ab0h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+ƒ
+java:S1192("HDefine a constant instead of duplicating this literal "message" 3 times.8Ø”Ê¼Á2b 9040ca9bfe0a4c38f81140904fb9db9dh
+
+java:S1192+"FDefine a constant instead of duplicating this literal "error" 3 times.8Ø”Ê¼Á2b 66eec6bc0ddfe3cf8ddad7021575856eh
+v	java:S125T"<This block of commented-out lines of code should be removed.8ù€ÕÎÄ2b d40b571dae83caf54d9d6781b35abf3dh
+k
+java:S1128"0Remove this unused import 'java.time.LocalDate'.8¨ñ¨ÙÄ2b ffa986c415054dd35650ac8c9c4c9ac7h
+v	java:S125?"<This block of commented-out lines of code should be removed.8ù€ÕÎÄ2b c9f1c1f29d6e582ca4e9e1e0467e0dech

@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "jwt.auth.converter",
+      "type": "com.exa.configuration.KeycloakConfiguration",
+      "sourceType": "com.exa.configuration.KeycloakConfiguration"
+    }
+  ],
+  "properties": [
+    {
+      "name": "jwt.auth.converter.principal-attribute",
+      "type": "java.lang.String",
+      "sourceType": "com.exa.configuration.KeycloakConfiguration"
+    },
+    {
+      "name": "jwt.auth.converter.resource-id",
+      "type": "java.lang.String",
+      "sourceType": "com.exa.configuration.KeycloakConfiguration"
+    }
+  ],
+  "hints": []
+}

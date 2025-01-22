@@ -1,0 +1,13 @@
+
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+r
+java:S2589P"7Remove this expression which always evaluates to "true"8⁄Ω¡Ñπ2b 9f0cdb41220138066bffcc60612a36f0h
+ç
+java:S6204t"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'8≥Ã≈´π2b f31c9542f92d797a57d6f9bafca179cdh
+ì
+java:S1488""_Immediately return this expression instead of assigning it to the temporary variable "student".b ae1327558a3af09990e91c58c7cc4ea7h
+b
+java:S1905Y"'Remove this unnecessary cast to "List".8≥Ã≈´π2b fe0b5a2033eab8b1623731538e9237bdh
+~
+java:S1612""JReplace this lambda with method reference 'IllegalArgumentException::new'.b b4d414045ddc319a7da99472065d3b35h

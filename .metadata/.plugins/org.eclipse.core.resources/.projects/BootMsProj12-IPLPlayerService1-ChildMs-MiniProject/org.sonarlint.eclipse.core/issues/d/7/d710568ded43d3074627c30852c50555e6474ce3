@@ -1,0 +1,4 @@
+
+^	java:S106!"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+
+java:S2637 "K"teamName" is marked "@NonNull" but is not initialized in this constructor.b ca279d218af2744d602b45ea84f60105h

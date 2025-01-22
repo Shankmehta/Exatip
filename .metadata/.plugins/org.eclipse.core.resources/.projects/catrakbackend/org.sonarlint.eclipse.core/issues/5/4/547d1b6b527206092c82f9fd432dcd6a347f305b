@@ -1,0 +1,200 @@
+
+é
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").b 4598eb88373e333926a4139cc3597a96h
+é
+java:S2293à	"YReplace the type specification in this constructor call with the diamond operator ("<>").b 611079665f36fdff05ae51d60b44f385h
+é
+java:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").b 611079665f36fdff05ae51d60b44f385h
+
+java:S1192›"JDefine a constant instead of duplicating this literal "licenseNo" 3 times.b 28dc0558a8ad5b01a0b94c557907a740h
+~
+java:S1192∏"IDefine a constant instead of duplicating this literal "deviceId" 3 times.b c732f28b320315f37decb18bd65baaa7h
+{
+java:S1192ﬂ"FDefine a constant instead of duplicating this literal "state" 5 times.b ee87f51c145effc2f6fcaa8295e2139ah
+
+java:S1192’"JDefine a constant instead of duplicating this literal "licenceNo" 3 times.b 7a09ddb76600b3adfda39ffeb0678e7ch
+ö
+java:S1192ÿ"eDefine a constant instead of duplicating this literal "Device and Vehicle not present in DB" 3 times.b 6ca197b7bfdeb2f0f873ba92028bd291h
+{
+java:S1192‡"FDefine a constant instead of duplicating this literal "orgId" 5 times.b 5b08d49c6491bfa7a90ee438d376da0ch
+ú
+java:S1192§"gDefine a constant instead of duplicating this literal "vehicle ids not belong to organization" 3 times.b 8703e3da034c7e501dedbcf2f3a9d3cbh
+}
+java:S1192‰"HDefine a constant instead of duplicating this literal "country" 5 times.b d8d3696e8f32758c1a9a1f63b88544cbh
+É
+java:S1192Â"NDefine a constant instead of duplicating this literal "countryAbbrev" 4 times.b 58d413c71f94350c5e05f5b89671b34ah
+~
+java:S1192‹"IDefine a constant instead of duplicating this literal "nickName" 5 times.b eaa70353d2cb11072d6c42f28f5899d6h
+~
+java:S1192◊"IDefine a constant instead of duplicating this literal "serialNo" 3 times.b 7043367f884fcc583e4416fae3fb60b6h
+|
+java:S1192Ù"GDefine a constant instead of duplicating this literal "remove" 4 times.b 9a2dd32a509a5bd1e9bac2bcfb43859fh
+ß
+java:S1192°"rDefine a constant instead of duplicating this literal "organization doesn't have any vehicles associated" 3 times.b 860ac7bd697c187fe206592f00ce9c34h
+
+java:S1192€"JDefine a constant instead of duplicating this literal "vehicleId" 5 times.b bf829aaf6f2dfbc874c4177bcd278182h
+~
+java:S1192‚"IDefine a constant instead of duplicating this literal "modifyBy" 5 times.b c58d7e2001c769823053bbacc2e0dcdch
+d
+java:S1066˚"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+d
+java:S1066Ô"/Merge this if statement with the enclosing one.b 39c8942e1038872a822c0dc75eedbde3h
+Y
+java:S2629ÿ"$Invoke method(s) only conditionally.b 0383fd8126f2cd1c8e52be65f917e865h
+Y
+java:S2629∞"$Invoke method(s) only conditionally.b 0383fd8126f2cd1c8e52be65f917e865h
+Y
+java:S2629–"$Invoke method(s) only conditionally.b 0383fd8126f2cd1c8e52be65f917e865h
+Y
+java:S2629‘"$Invoke method(s) only conditionally.b 0383fd8126f2cd1c8e52be65f917e865h
+Y
+java:S2629÷"$Invoke method(s) only conditionally.b 0383fd8126f2cd1c8e52be65f917e865h
+Y
+java:S2629⁄"$Invoke method(s) only conditionally.b 0383fd8126f2cd1c8e52be65f917e865h
+Y
+java:S2629‰"$Invoke method(s) only conditionally.b 0383fd8126f2cd1c8e52be65f917e865h
+]
+java:S5411Ó"(Use a primitive boolean expression here.b adeb18dc8bca51303e26b5a5c68ff465h
+]
+java:S5411Û"(Use a primitive boolean expression here.b adeb18dc8bca51303e26b5a5c68ff465h
+]
+java:S5411˙"(Use a primitive boolean expression here.b 77ca55abba813b353ca7cd7cbd5de2a3h
+]
+java:S5411Æ"(Use a primitive boolean expression here.b c56e1b58162a625b8948a9fce7be5716h
+]
+java:S5411Í"(Use a primitive boolean expression here.b 77ca55abba813b353ca7cd7cbd5de2a3h
+]
+java:S5411Ó"(Use a primitive boolean expression here.b 77ca55abba813b353ca7cd7cbd5de2a3h
+]
+java:S5411¢"(Use a primitive boolean expression here.b c56e1b58162a625b8948a9fce7be5716h
+v
+java:S6813s"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813v"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813y"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813|"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813Ç"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813Ö"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813à"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813ã"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813é"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813ë"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813î"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813ó"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813ö"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813ù"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813†"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813£"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813¶"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813©"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813¨"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813Ø"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813≤"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+w
+java:S6813µ"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+á
+java:S3776∫"RRefactor this method to reduce its Cognitive Complexity from 49 to the 15 allowed.b 93900a1bc9db53a886b25cef2ffae41fh
+á
+java:S3776ª"RRefactor this method to reduce its Cognitive Complexity from 43 to the 15 allowed.b 621694ab9cc2725e0c937a52f19fc9d6h
+p	java:S125é"<This block of commented-out lines of code should be removed.b df439618c23d57fc1c65a56dc9c64030h
+p	java:S125ö"<This block of commented-out lines of code should be removed.b 526272f61c69da546707e292d009b628h
+u
+java:S1612Ç"@Replace this lambda with method reference 'Device::getSerialNo'.b b4d414045ddc319a7da99472065d3b35h
+á
+java:S3776Õ"RRefactor this method to reduce its Cognitive Complexity from 68 to the 15 allowed.b c05f9c027276d4e56204a91d85c43d87h
+Z
+java:S3457ÿ"%String contains no format specifiers.b 03aa44f7699d5404fd0bfbad00ae1635h
+Z
+java:S3457∞"%String contains no format specifiers.b 03aa44f7699d5404fd0bfbad00ae1635h
+á
+java:S3776ö"RRefactor this method to reduce its Cognitive Complexity from 74 to the 15 allowed.b 1a565f7082aaa91425ac068af8f0dd87h
+~
+java:S1854˜"IRemove this useless assignment to local variable "vehicleDeviceViewDTOs".b 314710a157e4bbc6689c4d067db5e6dfh
+{
+java:S2153µ"FRemove the boxing to "Long"; The argument is already of the same type.b 5e0bcc6155063dc21461174b4dba6c42h
+T
+java:S2676Ä	"Use the original value instead.b 57585585ace054717fc7abb4349b1949h
+á
+java:S3776„
+"RRefactor this method to reduce its Cognitive Complexity from 71 to the 15 allowed.b 7c64f7c54ef450855e8921b6dcd33043h
+{
+java:S2153°"FRemove the boxing to "Long"; The argument is already of the same type.b 5e0bcc6155063dc21461174b4dba6c42h
+„
+java:S1130ì"≠Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'com.fasterxml.jackson.core.JsonProcessingException'.b a9571afe8847a5a5b19e367d4cfb7617h
+á
+java:S3776œ"RRefactor this method to reduce its Cognitive Complexity from 48 to the 15 allowed.b 99afae31d5510939fd4e5a1417a9638dh
+„
+java:S1130–"≠Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'com.fasterxml.jackson.core.JsonProcessingException'.b a9571afe8847a5a5b19e367d4cfb7617h
+á
+java:S3776…"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.b f8b6729cacc955e42debf1c63b979175h
+Z
+java:S3457Õ"%String contains no format specifiers.b caa351a7e13edd4f526e3016ee060688h
+Z
+java:S3457–"%String contains no format specifiers.b 8028b64aa476ecac82816932afff6d98h
+õ
+java:S2178”"fCorrect this "&" to "&&" and extract the right operand to a variable if it should always be evaluated.b 6cff047854f19ac2aa52aac51bf3af4ah
+Z
+java:S3457‘"%String contains no format specifiers.b 78abc2baf7549679248910e83f48254ah
+Z
+java:S3457÷"%String contains no format specifiers.b 23614e904d89ce5cf7bbae2c0a27dd0dh
+Z
+java:S3457⁄"%String contains no format specifiers.b 03aa44f7699d5404fd0bfbad00ae1635h
+Z
+java:S3457‰"%String contains no format specifiers.b 9bc9edd7d9d5ab76835edbfb3bcdc112h
+á
+java:S3776‡"RRefactor this method to reduce its Cognitive Complexity from 70 to the 15 allowed.b c05f9c027276d4e56204a91d85c43d87h
+Å
+java:S1854¶"LRemove this useless assignment to local variable "hasDeviceInInactiveAlert".b ae05d74c176e26e0ab6e6438f320d03dh
+É
+java:S1854£"NRemove this useless assignment to local variable "hasDeviceIdInAlertOverHash".b 07936f1f35da3214980c308194f42106h
+u
+java:S1612Å"@Replace this lambda with method reference 'Device::getDeviceId'.b b4d414045ddc319a7da99472065d3b35h
+p	java:S125Ç"<This block of commented-out lines of code should be removed.b 33df78120631ecb08734ee84ce12aa38h
+t
+java:S1481£"?Remove this unused "hasDeviceIdInAlertOverHash" local variable.b 5ee839c32129aca5bae62b36f4b484c1h
+r
+java:S1481¶"=Remove this unused "hasDeviceInInactiveAlert" local variable.b 9611f67c3444c31ffb231aa69e60705bh
+p	java:S125®"<This block of commented-out lines of code should be removed.b d86f844f25ee111ef47bee74780ec2fch
+p	java:S125ı"<This block of commented-out lines of code should be removed.b 6246edee020d3e0547e06a6c2af002a6h
+p	java:S125¯"<This block of commented-out lines of code should be removed.b 320cbd41dd43e562e52f3f7bdf854c4dh
+p	java:S125˛"<This block of commented-out lines of code should be removed.b 13885b89741b2fb8539686cfd838f084h
+É
+java:S1871˙"NThis branch's code block is the same as the block for the branch on line 2292.b f3ff6ee15b61de7da0ff2e67faeed029h
+]
+java:S1125é"(Remove the unnecessary boolean literals.b b326b5062b2f0e69046810717534cb09h
+¸
+java:S6541∫"∆A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 112 to 64, Complexity from 19 to 14, Nesting Level from 6 to 2, Number of Variables from 23 to 6.b 93900a1bc9db53a886b25cef2ffae41fh
+˚
+java:S6541ª"≈A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 98 to 64, Complexity from 16 to 14, Nesting Level from 6 to 2, Number of Variables from 22 to 6.b 621694ab9cc2725e0c937a52f19fc9d6h
+¸
+java:S6541Õ"∆A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 163 to 64, Complexity from 27 to 14, Nesting Level from 6 to 2, Number of Variables from 32 to 6.b c05f9c027276d4e56204a91d85c43d87h
+¸
+java:S6541ö"∆A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 133 to 64, Complexity from 23 to 14, Nesting Level from 6 to 2, Number of Variables from 33 to 6.b 1a565f7082aaa91425ac068af8f0dd87h
+¸
+java:S6541„
+"∆A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 134 to 64, Complexity from 24 to 14, Nesting Level from 6 to 2, Number of Variables from 36 to 6.b 7c64f7c54ef450855e8921b6dcd33043h
+¸
+java:S6541œ"∆A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 114 to 64, Complexity from 28 to 14, Nesting Level from 3 to 2, Number of Variables from 16 to 6.b 99afae31d5510939fd4e5a1417a9638dh
+¸
+java:S6541‡"∆A "Brain Method" was detected. Refactor it to reduce at least one of the following metrics: LOC from 161 to 64, Complexity from 28 to 14, Nesting Level from 6 to 2, Number of Variables from 42 to 6.b c05f9c027276d4e56204a91d85c43d87h

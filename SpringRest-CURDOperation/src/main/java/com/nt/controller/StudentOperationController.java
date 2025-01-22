@@ -1,5 +1,7 @@
 package com.nt.controller;
 
+import java.time.LocalDate;
+import java.time.LocalDateTime;
 import java.util.List;
 import java.util.Map;
 
@@ -57,12 +59,19 @@ public class StudentOperationController {
     }
 
     // Add Student
+//    @PostMapping("/studentAdd")
+//    public ResponseEntity<String> saveStudent(@RequestBody Student student) {
+//        String msg = studentservice.registerStudent(student);
+//        return ResponseEntity.ok(msg);
+//    }
+
     @PostMapping("/studentAdd")
     public ResponseEntity<String> saveStudent(@RequestBody Student student) {
+        student.setAddDate(LocalDateTime.now());
+        student.setLastModifiedDate(LocalDateTime.now());
         String msg = studentservice.registerStudent(student);
         return ResponseEntity.ok(msg);
     }
-
     // Edit Student - Fetch details
     @GetMapping("/edit/{id}")
     public ResponseEntity<Student> getStudentForEdit(@PathVariable("id") int no) {
@@ -70,9 +79,16 @@ public class StudentOperationController {
         return ResponseEntity.ok(student);
     }
 
-    // Edit Student - Update details
+//    // Edit Student - Update details
+//    @PutMapping("/edit")
+//    public ResponseEntity<String> editStudent(@RequestBody Student student) {
+//        String msg = studentservice.updateStudent(student);
+//        return ResponseEntity.ok(msg);
+//    }
+    // Edit Student - Update details (with Last Modified Date)
     @PutMapping("/edit")
     public ResponseEntity<String> editStudent(@RequestBody Student student) {
+        student.setLastModifiedDate(LocalDateTime.now());
         String msg = studentservice.updateStudent(student);
         return ResponseEntity.ok(msg);
     }
@@ -101,4 +117,56 @@ public class StudentOperationController {
         List<Student> students = studentservice.getSortedStudents(sortBy, order);
         return ResponseEntity.ok(students);
     }
+    @PostMapping("/forgot-password")
+    public ResponseEntity<Map<String, String>> forgotPassword(@RequestBody Map<String, String> request) {
+        String email = request.get("email");
+        
+        if (studentservice.initiatePasswordReset(email)) {
+            return ResponseEntity.ok(Map.of("message", "Password reset instructions sent to your email."));
+        } else {
+            return ResponseEntity.badRequest().body(Map.of("error", "Email not found."));
+        }
+    }
+
+    @PostMapping("/reset-password")
+    public ResponseEntity<Map<String, String>> resetPassword(@RequestBody Map<String, String> request) {
+        String token = request.get("token");
+        String newPassword = request.get("newPassword");
+        
+        if (studentservice.resetPassword(token, newPassword)) {
+            return ResponseEntity.ok(Map.of("message", "Password has been reset successfully."));
+        } else {
+            return ResponseEntity.badRequest().body(Map.of("error", "Invalid or expired reset token."));
+        }
+    }
+
+    @PostMapping("/sendEmail/{id}")
+    public ResponseEntity<String> sendEmail(@PathVariable("id") int studentId) {
+        try {
+            // Fetch student details by ID
+            Student student = studentservice.getStudentByNo(studentId);
+            if (student == null) {
+                return ResponseEntity.badRequest().body("Student not found.");
+            }
+
+            String emailContent = String.format(
+            	    "Student Details:\nStudent No: %d\nName: %s\nAddress: %s\nFees: %.2f",
+            	    student.getSno(), student.getSname(), student.getSaddress(), (double) student.getFees());
+
+
+
+            // Send email
+            boolean emailSent = studentservice.sendEmail(student.getEmail(), "Student Details", emailContent);
+            if (emailSent) {
+                return ResponseEntity.ok("Email sent successfully!");
+            } else {
+                return ResponseEntity.badRequest().body("Failed to send email. Please check your email configuration.");
+            }
+        } catch (Exception e) {
+            // Log and handle unexpected exceptions
+            e.printStackTrace();
+            return ResponseEntity.status(500).body("An error occurred while sending the email.");
+        }
+    }
 }
+

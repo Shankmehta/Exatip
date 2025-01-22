@@ -1,0 +1,10 @@
+
+u
+java:S34570"AFormat specifiers should be used instead of string concatenation.b 21318d49c3c928be708384252464e400h
+a
+java:S4925"-Remove this "Class.forName()", it is useless.b c78ca533dd9db31dc1aebe0b40b92535h
+u
+java:S3457,"AFormat specifiers should be used instead of string concatenation.b e21231c3567a4f81105c928546c8113dh
+^	java:S106$"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh
+j
+java:S6437"6Revoke and change this password, as it is compromised.b 96723585d458b183b8896acda283fdc5h

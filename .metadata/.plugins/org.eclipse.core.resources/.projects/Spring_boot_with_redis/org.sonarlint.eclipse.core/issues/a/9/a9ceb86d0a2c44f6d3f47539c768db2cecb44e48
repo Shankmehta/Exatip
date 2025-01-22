@@ -1,0 +1,7 @@
+
+c
+java:S3740"/Provide the parametrized type for this generic.b 8049fb547190271d8b9b8a404080b7d1h
+‚
+java:S3008"NRename this field "KEY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 3b5949e0c26b87767a4752a276de9570h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h

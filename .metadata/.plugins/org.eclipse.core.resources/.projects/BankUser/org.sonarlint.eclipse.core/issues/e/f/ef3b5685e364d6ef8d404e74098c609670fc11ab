@@ -1,0 +1,78 @@
+
+é
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").b 7727673001265665b8d34877b6abc29ah
+ç
+java:S2293Q"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+ç
+java:S2293Y"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+[
+java:S1452ä"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+Z
+java:S1452B"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+f
+java:S1135\"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+é
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").b 7297ea370d1a880bab303de656101d8bh
+†
+java:S1130:"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.b be3bf3cb01e0cae10d7459a53f1b9edch
+ç
+java:S2293i"YReplace the type specification in this constructor call with the diamond operator ("<>").b 870788f92ac934a7b7ea5172e7cb01a7h
+v
+java:S6813)"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S68132"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+ç
+java:S2293T"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").b 7297ea370d1a880bab303de656101d8bh
+]	java:S108¨")Either remove or fill this block of code.b f95b70fdc3088560732a5ac135644506h
+[
+java:S1452≥"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+ç
+java:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293Ä"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+f
+java:S1135X"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+g
+java:S1135ª"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+Z
+java:S1452y"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+é
+java:S2293Ω"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+ç
+java:S2293m"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+f
+java:S1135q"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+c
+java:S3740J"/Provide the parametrized type for this generic.b d48ee621d96430d6f91522a1ac3acea2h
+é
+java:S2293õ"YReplace the type specification in this constructor call with the diamond operator ("<>").b 3fa5d2de3619924f8dbb4d0c1c127d57h
+ç
+java:S1192m"YDefine a constant instead of duplicating this literal "Customer does not Exists" 4 times.b 5e3af939492fc51f7be52db43b349a1ah
+ç
+java:S2293="YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293Ñ"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+v
+java:S6813/"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+Z
+java:S1452:"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+ç
+java:S2293}"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+g
+java:S1135É"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+t
+java:S4684:"@Replace this persistent entity with a simple POJO or DTO object.b 91ec1f9324753048c0096d036a694f86h
+é
+java:S2293π"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+t
+java:S4684y"@Replace this persistent entity with a simple POJO or DTO object.b 3aad3506aa11f05f265ea8304b8152b3h
+[
+java:S1452î"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+v
+java:S6813,"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+Z
+java:S1452c"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+ç
+java:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h

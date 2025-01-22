@@ -1,0 +1,9 @@
+
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+„	java:S116"QRename this field "jwt_rf" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f929b01f7d203a0cd7ecf0e982a90cb8h
+…	java:S116"RRename this field "jwt_aep" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 4de26ccdc0c314ed545d029a21da22e2h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h

@@ -1,0 +1,8 @@
+
+o	java:S107k"<Method has 9 parameters, which is greater than 7 authorized.b 6cc18e2ee216a74daa9190ce28994d39h
+ã
+java:S1130‚"­Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'com.fasterxml.jackson.core.JsonProcessingException'.b a9571afe8847a5a5b19e367d4cfb7617h
+o	java:S107"<Method has 8 parameters, which is greater than 7 authorized.b 93900a1bc9db53a886b25cef2ffae41fh
+p	java:S107-"=Method has 10 parameters, which is greater than 7 authorized.b 3e087206cc908106f5b9548005fa39fdh
+â
+java:S1130{"­Remove the declaration of thrown exception 'com.fasterxml.jackson.databind.JsonMappingException' which is a subclass of 'com.fasterxml.jackson.core.JsonProcessingException'.b a9571afe8847a5a5b19e367d4cfb7617h

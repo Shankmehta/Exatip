@@ -1,0 +1,116 @@
+
+ç
+java:S2293t"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+g
+java:S1135•"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+é
+java:S2293ß"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+[
+java:S1452Ë"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+v
+java:S6813*"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+Ö	java:S117ö"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b fd359d61b6ac9ef6bec63ace2b73d8e6h
+g
+java:S1135¸"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+[
+java:S1452ö"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+é
+java:S2293â"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+ç
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293í"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293ò"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293Œ"YReplace the type specification in this constructor call with the diamond operator ("<>").b 802e80697277ad47ff94446b635bde20h
+é
+java:S2293î"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+v
+java:S6813-"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+Ä
+java:S1192Ñ"KDefine a constant instead of duplicating this literal "Successful" 3 times.b 4a704376a18c59ae0991c4d4f2dc8344h
+é
+java:S2293¢"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+f
+java:S1135S"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+Z
+java:S1452x"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+g
+java:S1135ì"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+_
+java:S1481c"+Remove this unused "result" local variable.b b4a88417b3d0170d754c647c30b7216ah
+é
+java:S2293‹"YReplace the type specification in this constructor call with the diamond operator ("<>").b e204bcb7a1d997ac32cf2ef8abdad98fh
+Z
+java:S14522"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+_
+java:S1481o"+Remove this unused "result" local variable.b b4a88417b3d0170d754c647c30b7216ah
+Z
+java:S1452l"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+é
+java:S2293º"YReplace the type specification in this constructor call with the diamond operator ("<>").b 802e80697277ad47ff94446b635bde20h
+é
+java:S2293Å"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293∞"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+ç
+java:S2293U"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+É
+java:S11924"ODefine a constant instead of duplicating this literal "Authorization" 12 times.b 79dc52537a349682e08481ecce1101a6h
+[
+java:S1452”"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+Ñ	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b d9d1e60e50119d9752001d4196ee6b3ch
+f
+java:S1135A"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+ç
+java:S2293f"YReplace the type specification in this constructor call with the diamond operator ("<>").b 802e80697277ad47ff94446b635bde20h
+n
+java:S1854o":Remove this useless assignment to local variable "result".b d38181c8f22d361042515e4973f47e4eh
+ç
+java:S2293Z"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+g
+java:S1135ﬁ"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+[
+java:S1452ä"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+é
+java:S2293‡"YReplace the type specification in this constructor call with the diamond operator ("<>").b 7297ea370d1a880bab303de656101d8bh
+é
+java:S2293≈"YReplace the type specification in this constructor call with the diamond operator ("<>").b 802e80697277ad47ff94446b635bde20h
+n
+java:S1854c":Remove this useless assignment to local variable "result".b d38181c8f22d361042515e4973f47e4eh
+[
+java:S1452û"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+ç
+java:S2293r"YReplace the type specification in this constructor call with the diamond operator ("<>").b 802e80697277ad47ff94446b635bde20h
+é
+java:S2293ç"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+v
+java:S6813'"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+Ö	java:S117Ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b d9d1e60e50119d9752001d4196ee6b3ch
+g
+java:S1135™"2Complete the task associated to this TODO comment.b 7070b9ee421ce52b0a94300bdc011420h
+é
+java:S2293¨"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+Z
+java:S1452`"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+é
+java:S2293©"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+ç
+java:S2293>"YReplace the type specification in this constructor call with the diamond operator ("<>").b e204bcb7a1d997ac32cf2ef8abdad98fh
+é
+java:S1192ç"YDefine a constant instead of duplicating this literal "Transaction Unsuccessful" 5 times.b ce737b9c847b768f5f2a68d50c8d0d86h
+ç
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+ç
+java:S2293h"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293ï"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293˛"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+ç
+java:S2293&"YReplace the type specification in this constructor call with the diamond operator ("<>").b be38d2c608ab2bfbe8e85a0b99107db6h
+é
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h
+é
+java:S2293˜"YReplace the type specification in this constructor call with the diamond operator ("<>").b a4f5c9920c2235bcf03341de5d2e2d58h

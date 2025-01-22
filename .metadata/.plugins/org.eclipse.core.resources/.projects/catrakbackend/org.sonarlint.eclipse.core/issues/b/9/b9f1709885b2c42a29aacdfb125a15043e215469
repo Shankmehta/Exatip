@@ -1,0 +1,10 @@
+
+y	java:S112"FDefine and throw a dedicated exception instead of using a generic one.b b0d4998a26f5b5742ad38c4af8817e32h
+€
+java:S2259"LA "NullPointerException" could be thrown; "getPoolConfig()" can return null.b 4f4fbffd5e38276869e4ab6e52f91a08h
+€
+java:S2259"LA "NullPointerException" could be thrown; "getPoolConfig()" can return null.b a11a38fe6034741ff828e257382d9557h
+€
+java:S2259!"LA "NullPointerException" could be thrown; "getPoolConfig()" can return null.b 092656eb2f6225962b53ecdb25444060h
+ 
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.b b0d4998a26f5b5742ad38c4af8817e32h

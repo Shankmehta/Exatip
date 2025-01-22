@@ -1,0 +1,5 @@
+
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+Å	java:S100-"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b 9ce07efbc2f7b33f21bd4cc6a0821c7fh
+Ñ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.b f8c8b903cb2e4f297e4b96d4b9c1e98ah

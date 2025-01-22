@@ -1,0 +1,9 @@
+
+ç
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").b 4c2de11c9da644276f9f83237c9fa22ah
+Z
+java:S1452"&Remove usage of generic wildcard type.b d1457b72c3fb323a2671125aef3eab5dh
+t
+java:S4684"@Replace this persistent entity with a simple POJO or DTO object.b ee11cbb19052e40b07aac0ca060c23eeh
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h

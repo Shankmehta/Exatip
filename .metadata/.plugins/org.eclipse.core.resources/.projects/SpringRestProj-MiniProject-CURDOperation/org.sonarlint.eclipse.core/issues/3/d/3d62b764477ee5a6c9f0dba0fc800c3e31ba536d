@@ -1,0 +1,13 @@
+
+~
+java:S1192B"JDefine a constant instead of duplicating this literal "resultMsg" 3 times.b 52681629906cbc44d7d3d8386649893eh
+‡
+java:S11923"LDefine a constant instead of duplicating this literal "studentData" 3 times.8ÒÙË«¹2b c07797fb1dee6631ab1dcbfbb9bc3a09h
+v
+java:S6813"BRemove this field injection and use constructor injection instead.b 0132ec8cee01c5dd244e1a60fe6448a1h
+„
+java:S1192C"PDefine a constant instead of duplicating this literal "redirect:report" 3 times.b 9a8f76f28606414e0929f3d158132308h
+Y
+java:S1128"Remove this duplicated import.8ÒÅŞ‚¹2b 647165940d2971f696436f6a7da1f89dh
+‡
+java:S11924"LDefine a constant instead of duplicating this literal "show_report" 3 times.8ÒÙË«¹2b 9a5112f763f84cee882ec3fcf77efc94h

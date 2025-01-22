@@ -1,0 +1,28 @@
+
+ç
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").b b166d475c004cd58444edc04dbb73481h
+|
+java:S1192 "HDefine a constant instead of duplicating this literal "vehicle" 3 times.b b0633cc7370152ed29d90f0e24c6d818h
+~
+java:S1192E"JDefine a constant instead of duplicating this literal "productId" 3 times.b bf0471d1ba6f571cf75bba53c1b92dc8h
+Å
+java:S1192"MDefine a constant instead of duplicating this literal "organization" 6 times.b bdf6e7693269aa2b49c338c8ab628222h
+{
+java:S1192""GDefine a constant instead of duplicating this literal "status" 5 times.b 3c5b3d50ffa16d0415be38e037cfe938h
+Ç
+java:S2259A"N"NullPointerException" will be thrown when invoking method "hasDeviceField()".b d4238e7d17b1fb2518fee3e637273107h
+Ü
+java:S37767"RRefactor this method to reduce its Cognitive Complexity from 30 to the 15 allowed.b f5a0a4aa1d8485a6203bc04c9ac9ef67h
+m
+java:S2130Y"9Use "Integer.parseInt" for this string-to-int conversion.b b5bb1a07405f9872f5e52b2551538444h
+p
+java:S1128	"<Remove this unused import 'javax.persistence.criteria.From'.b 005eff374628c35e7c141fa697ad970eh
+p
+java:S1128
+"<Remove this unused import 'javax.persistence.criteria.Join'.b 8654bbbe9be8bd2e0f68db4085f2bb3eh
+t
+java:S1128"@Remove this unused import 'javax.persistence.criteria.Subquery'.b 57fec3ead9ca47a1801202003339eee6h
+z
+java:S1128"FRemove this unused import 'com.catrak.exatip.commonlib.entity.Device'.b 11cae472bd349c7c011cf2a13ac33983h
+Å
+java:S1128"MRemove this unused import 'com.catrak.exatip.commonlib.entity.DeviceDetails'.b 056d0c8918cbb9e847bd9e2d42ced760h

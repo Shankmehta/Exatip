@@ -27,5 +27,10 @@ public interface IStudentService {
     public List<Student> getSortedStudents(String sortBy, String order);
 
     // Validate user login
-    boolean validateUser(String username, String password);
+   
+    public boolean validateUser(String username, String password) ;
+    boolean initiatePasswordReset(String email);
+    boolean resetPassword(String token, String newPassword);
+    
+    public boolean sendEmail(String recipientEmail, String subject, String messageBody);
 }

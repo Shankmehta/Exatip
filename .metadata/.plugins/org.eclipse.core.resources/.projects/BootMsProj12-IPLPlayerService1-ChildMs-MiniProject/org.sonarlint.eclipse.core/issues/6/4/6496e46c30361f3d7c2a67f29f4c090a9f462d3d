@@ -1,0 +1,4 @@
+
+|
+java:S2637,"H"pname" is marked "@NonNull" but is not initialized in this constructor.b f433ff0c6a3b0776b50234f5f1043a68h
+^	java:S106-"+Replace this use of System.out by a logger.b bb1c3f2ea781263d3a2bb92b06a2061fh

@@ -1,0 +1,5 @@
+package com.exa.repository;
+
+public class RedisRepository {
+
+}

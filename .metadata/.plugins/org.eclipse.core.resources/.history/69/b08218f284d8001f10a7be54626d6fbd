@@ -1,0 +1,5 @@
+package com.exa.model;
+
+public class KeyValue {
+
+}
